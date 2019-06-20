@@ -15,9 +15,25 @@ h1 {
 }
 
 .btn {
-  background-color:#000;
+  background-color: #000;
 }
 
 .btn:hover {
   background-color: #f2f2f2;
+}
+
+.padright {
+  padding-right: .75em;
+}
+
+.padleft {
+  padding-left: .75em;
+}
+
+@media only screen and (min-width: 60em) {
+
+  section {
+    max-width: 60em;
+    margin: 0 auto;
+  }
 }
