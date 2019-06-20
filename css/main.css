@@ -26,10 +26,6 @@ h1 {
   padding-right: .75em;
 }
 
-.padleft {
-  padding-left: .75em;
-}
-
 @media only screen and (min-width: 60em) {
 
   section {
